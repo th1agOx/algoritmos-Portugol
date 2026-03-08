@@ -8,7 +8,7 @@
 
 Criei este repositório centralizar e versionar os algoritmos desenvolvidos pelo **Grupo 2** como parte do Trabalho Final da disciplina de **Lógica de Programação** do programa **Serretec Residência de Software**.
 
-Aqui vocês irão submeter as soluções dos desafios propostos, escritos na linguagem de aprendizado **Portugol**, praticando conceitos fundamentais da lógica computacional.
+Aqui nois iremos submeter as soluções dos desafios propostos, escritos na linguagem de aprendizado **Portugol**, praticando conceitos fundamentais da lógica computacional.
 
 ---
 
