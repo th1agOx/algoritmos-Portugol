@@ -72,12 +72,6 @@ algoritmos-Portugol/
 - [Portugol Webstudio](http://lite.acad.univali.br/portugol/) — Versão online do Portugol Studio
 
 
-## Observações
-
-- Cada integrante é responsável por suas próprias questões.
-- O código deve ser original e desenvolvido individualmente ou em dupla, conforme combinado pelo grupo.
-- Dúvidas? Abram uma **Issue** aqui no repositório ou entrem em contato com o responsável pelo repo.
-
 ---
 
 <p align="center">
