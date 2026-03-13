@@ -23,18 +23,6 @@ O trabalho final dessa disciplina consiste na resolução de **7 questões** sel
 
 ---
 
-##  Estrutura do Repositório
-
-```
-algoritmos-Portugol/
-│
-├── questao-XX/
-│   ├── solucao.por         # Código em Portugol
-│   └── README.md           # Descrição da questão e explicação da solução
-│
-└── README.md               
-```
-
 > Substitua `XX` pelo número da questão correspondente (ex: `questao-01`, `questao-07`).
 
 ---
@@ -45,21 +33,15 @@ algoritmos-Portugol/
    ```bash
    git clone https://github.com/th1agOx/algoritmos-Portugol.git
    ```
+2. **Adicione seu código na pasta correspondente.**
 
-2. **Crie uma branch com seu nome ou número da questão:**
-   ```bash
-   git checkout -b questao-01/nome-do-integrante
-   ```
-
-3. **Adicione seu código na pasta correspondente.**
-
-4. **Faça o commit com uma mensagem descritiva:**
+3. **Faça o commit com uma mensagem descritiva:**
    ```bash
    git add .
    git commit -m "feat: solução da questão 01 - divisores de número positivo"
    ```
 
-5. **Envie para o repositório remoto:**
+4. **Envie para o repositório remoto:**
    ```bash
    git push origin questao-01/nome-do-integrante
    ```
